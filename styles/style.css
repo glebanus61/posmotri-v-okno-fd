@@ -18,6 +18,7 @@ html {
   background-color: #1b1919;
   align-items: center;
   justify-content: center;
+  block-size: 100%;
 }
 
 .content {
