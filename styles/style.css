@@ -10,23 +10,23 @@ html {
 
 .page {
   display: flex;
-  min-width: 1140px;
-  max-height: 534px;
-  margin: 133px 30px;
+  width: 1200;
+  height: 800px;
+  margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  align-items: center;
+  justify-content: center;
 }
 
 .content {
   display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
+  width: 1140px;
+  height: 534px;
   gap: 30px;
   align-items: end;
-  width: 100%;
-  min-height: 100%;
 }
 
 .result__video-container {
